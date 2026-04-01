@@ -1,0 +1,31 @@
+.resultado {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.valor {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.classificacao {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.baixo {
+    color: #f39c12;
+}
+
+.normal {
+    color: #27ae60;
+}
+
+.sobrepeso {
+    color: #e67e22;
+}
+
+.obesidade {
+    color: #e74c3c;
+}
